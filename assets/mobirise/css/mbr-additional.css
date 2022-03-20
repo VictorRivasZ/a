@@ -1050,7 +1050,7 @@ a {
 .cid-t0vvsqf5kp {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #e2e8f4;
 }
 .cid-t0vvsqf5kp .nav-tabs .nav-item.open .nav-link:focus,
 .cid-t0vvsqf5kp .nav-tabs .nav-link.active:focus {
@@ -1091,6 +1091,9 @@ a {
   text-align: center;
 }
 .cid-t0vvsqf5kp H3 {
+  text-align: center;
+}
+.cid-t0vvsqf5kp P {
   text-align: center;
 }
 .cid-t0vBJs5vEx {
